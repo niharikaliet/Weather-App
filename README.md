@@ -2,7 +2,7 @@
 
 A sleek, interactive weather application built using **HTML**, **CSS**, and **JavaScript** with smooth animations, a dark/light mode switch, and support for both **Celsius** and **Fahrenheit**. Easily view the weather of your city or choose from a list of popular cities.
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](nithu/screenshot.png)
 
 ---
 
